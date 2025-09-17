@@ -2,7 +2,7 @@
 
 
 Energy Management System for School Buildings
-1. Load Forecasting System
+# 1. Load Forecasting System
 Overview
 The Load Forecasting System predicts hourly energy consumption for a school building in Los Angeles using historical weather data and machine learning techniques.
 
@@ -98,7 +98,7 @@ scikit-learn
 
 requests, holidays
 
-2. Battery Optimization System
+# 2. Battery Optimization System
 Overview
 The Battery Optimization System creates an optimal charge/discharge schedule for a battery storage system integrated with solar PV, aiming to minimize grid electricity usage and carbon emissions.
 
